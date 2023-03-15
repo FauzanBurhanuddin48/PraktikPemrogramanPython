@@ -10,5 +10,5 @@ for i in range (2, panjang): #perulangan for yang dimulai dari indeks ke-2 hingg
 
     fibo.append(nextangka) #menambahkan nilai 'nextangka' pada akhir list fibo.
 
-    print(fibo, end="") #mencetak isi dari list fibo pada setiap perulngan
+    print(fibo, end="") #mencetak isi dari list fibo pada setiap perulngan.
     print() #mencetak baris baru pada setiap perulangan.
